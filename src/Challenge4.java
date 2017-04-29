@@ -13,6 +13,7 @@ import java.util.Scanner;
             System.out.println("Girilen Cümledeki Kelime Sayısı="+(k+1));//k+1 kelime sayısı
         }
 
+
     }
 
 
